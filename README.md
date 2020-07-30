@@ -1,2 +1,2 @@
-# project-1
+# Data Visulization Project
 group project #1 for UofO bootcamp
