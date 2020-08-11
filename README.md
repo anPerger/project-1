@@ -16,7 +16,7 @@ US President Jimmy Carter signed the executive order that created the Federal Em
 For Fire disasters, the state with the most declarations was Texas with 250. Rounding out the top 5 are California (241)
 Washington (108), Oklahoma (105), and Oregon (77).
 
-The states with the most declared Sever Storms is Oklahoma (44), Alabama(41), Mississippi (38), Kansas(38), and Missouri (35).
+The states with the most declared Severe Storms is Oklahoma (44), Alabama(41), Mississippi (38), Kansas(38), and Missouri (35).
 
 The states with the most declared hurricanes is Florida (45), North Caorlina (30), Louisiana (27), Texas (22), and Alabama (21).
 
